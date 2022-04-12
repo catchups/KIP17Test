@@ -1,0 +1,50 @@
+{
+    "name": "Decipher HS",
+    "description": "Developer / Software architect / Blockchain maximalist",
+    "image": "ipfs://QmcTcVmz8qnYs2X57TcqKxquEfizpsZsqSLCx4WePu7m6b",
+    "edition": 1,
+    "date": 1647236000877,
+    "attributes": [
+    {
+    "trait_type": "01.이름",
+    "value": "장혁수"
+    },
+    {
+    "trait_type": "02.직업",
+    "value": "개발자"
+    },
+    {
+    "trait_type": "03.제조연도",
+    "value": "19XX"
+    },
+    {
+    "trait_type": "04.전직장",
+    "value": "Samsung SDS"
+    },
+    {
+    "trait_type": "05.현재",
+    "value": "백수(예정)"
+    },
+    {
+    "trait_type": "06.취미01",
+    "value": "테니스"
+    },
+    {
+    "trait_type": "07.취미02",
+    "value": "읽고쓰기"
+    },
+    {
+    "trait_type": "08.장래희망",
+    "value": "돈많은 작가"
+    },
+    {
+    "trait_type": "09.Interest",
+    "value": "Scalability"
+    },
+    {
+    "trait_type": "10.증오하는것",
+    "value": "EOS"
+    }
+    ],
+    "compiler": "HS"
+    }
